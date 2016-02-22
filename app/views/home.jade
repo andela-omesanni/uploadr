@@ -1,0 +1,8 @@
+section
+  h2.text-center(style="color: #0E62AE;") Upload a CSV file
+
+  form#upload-form(ng-init="initialize()")
+    div(ng-if="processing")
+      p Processing in backend ...
+
+    input#csv-input(type="file" name="csv" accept=".csv")

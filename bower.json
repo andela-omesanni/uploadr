@@ -1,0 +1,17 @@
+{
+  "name": "uploadr",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-animate": "1.4.7",
+    "angular-aria": "latest",
+    "angular-cookies": "latest",
+    "lodash": "~3.0.0",
+    "moment": "latest",
+    "angular-ui-router": "~0.2.11",
+    "jquery": "~2.1.1",
+    "angular-elastic": "~2.4.2"
+  },
+  "resolutions": {
+    "angular": "1.4.7"
+  }
+}
