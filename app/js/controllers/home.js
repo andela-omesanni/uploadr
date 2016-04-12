@@ -1,4 +1,4 @@
-angular.module('uploadr.controllers')
+angular.module('uploadr.controllers') 
   .controller('HomeCtrl', ['$scope', '$http',
     function($scope, $http) {
 

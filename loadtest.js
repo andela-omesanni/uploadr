@@ -19,7 +19,7 @@ module.exports = function(csv) {
       request.write(message);
 
       return request;
-    },
+    }
   };
 
   loadtest.loadTest(options, function(error, result) {
